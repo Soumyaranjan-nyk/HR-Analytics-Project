@@ -1,11 +1,11 @@
-HR Analytics Project
+Employee Retention Project
 
 Overview
 This project provides a detailed analysis of HR data, focusing on employee attrition, job satisfaction, and retention. Using key performance indicators (KPIs) and data visualization, I’ve derived insights to help organizations address high turnover rates and improve employee engagement and satisfaction.
 
 Project Goals:
 
-The primary objectives of this HR analytics project were:
+The primary objectives of this Employee retention project were:
 To identify factors contributing to high attrition.
 To analyze the impact of job roles, departments, and career progression on employee retention.
 To offer actionable recommendations for reducing attrition and increasing job satisfaction.
@@ -44,4 +44,4 @@ Enhance Work-Life Balance: Flexible scheduling and wellness programs for demandi
 
  Conclusion:
 
-This HR Analytics project provides valuable insights that can help organizations improve employee retention and satisfaction. By addressing department-specific challenges, promoting career growth, and improving work-life balance, companies can reduce attrition and create a more supportive work environment.
+This Employee Retention project provides valuable insights that can help organizations improve employee retention and satisfaction. By addressing department-specific challenges, promoting career growth, and improving work-life balance, companies can reduce attrition and create a more supportive work environment.
